@@ -1,0 +1,5 @@
+<root>
+  <item name='com.google.analytics.tracking.android.Logger.LogLevel VERBOSE'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
