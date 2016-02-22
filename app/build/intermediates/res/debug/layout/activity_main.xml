@@ -98,4 +98,4 @@
         android:textSize="@dimen/no_search_result_txt_size"
         android:visibility="gone" />
 
-</RelativeLayout><!-- From: file:/D:/Bo2/app/src/main/res/layout/activity_main.xml -->
+</RelativeLayout><!-- From: file:/Users/kartikey/AndroidStudioProjects/Bo/app/src/main/res/layout/activity_main.xml -->

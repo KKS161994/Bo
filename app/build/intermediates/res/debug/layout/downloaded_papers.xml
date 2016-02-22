@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <view
+        android:id="@+id/papers_list"
+        class="android.support.v7.widget.RecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true" />
+</LinearLayout>
+<!-- From: file:/Users/kartikey/AndroidStudioProjects/Bo/app/src/main/res/layout/downloaded_papers.xml -->

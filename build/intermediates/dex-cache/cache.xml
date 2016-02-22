@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.octo.android.robospice/robospice-retrofit/1.4.14/c5e93129d2df923119f8ee659b3723dd0d631d1d/robospice-retrofit-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5e93129d2df923119f8ee659b3723dd0d631d1d">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/robospice-retrofit-1.4.14-a5eb99657e8432c2448360ba579eebe7dfe06a72.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/gson-2.2.4-46df77e3deaa54e6997bde064a00896ea15c5639.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/AndroidStudioProjects/Bo/app/libs/robospice-retrofit.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="eaca6af5ed4c1bbbcb866faab62dc19e2e3b853f">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/robospice-retrofit-30a9f9830f6a5dac3f0413b899cb47af916112f7.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-b880a8c6d67bb5824af009d1f481edb0f34f5a50.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.octo.android.robospice/robospice/1.4.14/fffe1563473feb2f956608554d3e97ad805914a7/robospice-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fffe1563473feb2f956608554d3e97ad805914a7">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/robospice-1.4.14-0887ef23113d8409cdf0b0dbbac31ebcf0421788.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.octo.android.robospice/robospice-cache/1.4.14/1a13bea0b3ae105c44cb6be7fc76b6d36098faf5/robospice-cache-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a13bea0b3ae105c44cb6be7fc76b6d36098faf5">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/robospice-cache-1.4.14-a780df34760d9d7af37feee033e7469929fbf096.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2-6039d8e4263cb0c0ed74962da9cd92988a5308bd.jar" />
+    </item>
+    <item
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/kartikey/AndroidStudioProjects/Bo/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-647fca71358b4def49f2f3fdce5d1a21cc341b16.jar" />
+    </item>
+
+</items>

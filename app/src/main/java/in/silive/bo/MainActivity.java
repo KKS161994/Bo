@@ -64,7 +64,7 @@ public class MainActivity extends FragmentActivity implements RequestListener,
 		t.enableAdvertisingIdCollection(true);
 		t.setScreenName("Home");
 		t.send(new HitBuilders.AppViewBuilder().build());
-try {
+	try {
 	crossImgView = (ImageView) findViewById(R.id.cross_img);
 	searchEdtView = (EditText) findViewById(R.id.search_txt);
 	subjectListView = (ListView) findViewById(R.id.subject_list);
@@ -111,7 +111,6 @@ catch (Exception e){
 					.setFatal(false)
 					.build()
 	);
-
 }
 	}
 	@Override
